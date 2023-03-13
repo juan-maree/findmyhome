@@ -5,3 +5,4 @@ lxml
 sqlalchemy
 psycopg2
 numpy
+sklearn
